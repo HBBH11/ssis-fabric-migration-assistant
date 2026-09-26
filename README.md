@@ -129,7 +129,7 @@ Issues and PRs welcome — particularly real-world `.dtsx` edge cases (SSIS vers
 
 ## Author
 
-Built by [Bayrem "Johnny" Ben Hamouda](https://github.com/HBBH11) — BI Engineer & Data Analyst specializing in Power BI, DAX, SQL, and Microsoft Fabric.
+Built by [Bayrem Hamrouni](https://github.com/HBBH11) — BI Engineer & Data Analyst specializing in Power BI, DAX, SQL, and Microsoft Fabric.
 
 ## License
 
